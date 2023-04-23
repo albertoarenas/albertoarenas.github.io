@@ -1,0 +1,22 @@
+# Site settings
+title: Alberto Arenas
+description: Minimal Resume
+baseurl: "" 
+url: "localhost:3000" 
+
+# User settings
+username: Alberto Arenas
+user_description: I'm a Software Engineer and Manager, I love learning in depth, sharing what I understand, digitizing workflows and make teams successful. I work for Technicolor Creative Studios as R&D Manager and play with machine learning and NVIDIA Omniverse.
+user_title: Software Engineer and Manager
+email: albertoa.arenas.garcia@gmail.com
+# twitter_username: value
+# instagram_username: value
+# facebook_username: value
+linkedin_username: albertoarenas
+github_username:  albertoarenas
+# medium_username: value
+# medium_url: value.com
+
+
+exclude: ['src']
+
