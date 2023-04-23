@@ -6,7 +6,7 @@ url: "localhost:3000"
 
 # User settings
 username: Alberto Arenas
-user_description: I'm a Software Engineer and Manager, I love learning in depth, sharing what I understand, digitizing workflows and make teams successful. I work for Technicolor Creative Studios as R&D Manager and play with machine learning and NVIDIA Omniverse.
+user_description: I am a seasoned Software Engineer and Manager of Agile Software Development Teams, with over 20 years of experience in the animation film, video game, and visual effects production industry. My passion lies in delving deep into new concepts, sharing my knowledge with others, and enhancing animation and VFX workflows. I have had the privilege of working with esteemed companies such as Ilion, ILM, Autodesk, Skydance, and Technicolor across Europe, Asia, and the USA. At present, I am focusing on machine learning and NVIDIA Omniverse while serving as an R&D Supervisor at Technicolor Creative Studios.  
 user_title: Software Engineer and Manager
 email: albertoa.arenas.garcia@gmail.com
 # twitter_username: value
@@ -17,6 +17,4 @@ github_username:  albertoarenas
 # medium_username: value
 # medium_url: value.com
 
-
-exclude: ['src']
 
